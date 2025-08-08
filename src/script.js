@@ -51,7 +51,7 @@ function addTransaction(type) {
 
   descInput.value = ""
   amountInput.value = ""
-}
+}  
 
 
 incomeBtn.addEventListener("click", () => addTransaction("income"))
